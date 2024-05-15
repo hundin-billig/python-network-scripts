@@ -1,0 +1,1 @@
+This is a threaded port scanner. It will scan a typical network in around 18 - 20 seconds. It will only output those ports that are active, displaying their RTT response time.

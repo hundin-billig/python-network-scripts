@@ -1,0 +1,1 @@
+This is a rudimentary ping program, and will take time due to lack of threads. It will print the RTT time of the active IP addresses.

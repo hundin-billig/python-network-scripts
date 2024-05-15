@@ -1,0 +1,1 @@
+This is a domain name WhoIs query. It will return basic info on the domain you input.
