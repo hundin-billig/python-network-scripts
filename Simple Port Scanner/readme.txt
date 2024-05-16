@@ -1,1 +1,1 @@
-This is a rudimentary ping program, and will take time due to lack of threads. It will print the RTT time of the active IP addresses.
+This is a rudimentary ping program, and will take time due to lack of threads. It will iterate through the entire IP range and print the RTT time of the active IP addresses. Do not scan any networks that you do not have permission to scan....you can be held liable for breaking any civil, state, or national laws against hacking.

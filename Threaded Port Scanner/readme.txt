@@ -1,1 +1,1 @@
-This is a threaded port scanner. It will scan a typical network in around 18 - 20 seconds. It will only output those ports that are active, displaying their RTT response time.
+This is a threaded port scanner. It will scan a typical network in around 18 - 20 seconds. It will only output those addresses in the network that are active, displaying their RTT response time. Do not scan any networks that you do not have permission to scan....you can be held liable for breaking any civil, state, or national laws against hacking.

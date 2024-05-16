@@ -1,1 +1,1 @@
-This is a very rudimentary server/client chat program. There are no bells and/or whistles. You can run both on the same computer, or on separate machunes.
+This is a very rudimentary server/client chat program. There are no bells and/or whistles. You can run both on the same computer, or on separate machines.

@@ -1,0 +1,1 @@
+This is a modified version of the simple port scanner. This version scans and reports which ports are open on the specified network, and is quite a bit faster. Do not scan any networks that you do not have permission to scan....you can be held liable for breaking any civil, state, or national laws against hacking.

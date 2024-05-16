@@ -1,0 +1,1 @@
+This is a simple password checker. It will scan a list of known passwords to find a match to the password you input to it and will let you know if it has found a match. The passwords.txt file can be found at https://github.com/danielmiessler/SecLists/tree/master/Passwords

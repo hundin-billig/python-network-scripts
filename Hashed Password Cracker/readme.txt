@@ -1,0 +1,1 @@
+This script demonstrates a dictionary attack using hashed passwords and a wordlist. The script will first ask for a password and will then hash it using the hashlib.sha256 protocol. It then will open the wordlist, hash the words using the same protocol and and compare those hashes with the input. It will then indicate if that password was found in the list or not.

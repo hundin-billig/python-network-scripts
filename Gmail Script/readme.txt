@@ -1,0 +1,1 @@
+This is a simple Python email program. Edit the gmail_credentials.py file to match your specific account, and then edit the send_gmail.py for the sender, receiver, subject and body. Then run the send_gmail.py program to send the message. It has an exception catcher to help troubleshoot any issues.
